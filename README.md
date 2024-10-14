@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou **Gabriel Vinícius**
 
-<!--
-**gabrielviniciussc/gabrielviniciussc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  💻 Futuro Engenheiro de Software | 🧠 Especialista em Inteligência Artificial
 
-Here are some ideas to get you started:
+Sou aluno do curso Técnico Integrado em Informática no **IFCE Campus Maranguape**. Atualmente, estou desenvolvendo habilidades em **Python**, **Swift**, **HTML**, **CSS**, **Java** e **JavaScript**, com o objetivo de me especializar em **Engenharia de Software** e **Inteligência Artificial**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🛠️ Tecnologias:**
+
+🐍 **Python** – Minha base sólida de programação.
+
+🍏 **Swift** – Focado no desenvolvimento iOS através do Capacita Brasil.
+
+🌐 **HTML & CSS** – Fundamentais para desenvolvimento web.
+
+☕ **Java & JavaScript** – Explorando backend e frontend para criar soluções completas.
+
+### 🎯 Objetivos:
+Meu foco é aplicar e expandir meu conhecimento para criar soluções inovadoras no campo do software e da Inteligência Artificial, sempre me desafiando e buscando crescimento contínuo.
+
+### **📫 Seção de Contato:**
+- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/gabriel-vinicius-bb726a32b/)
+- **E-mail**: gabriel.vinicius@aluno.ifce.edu.br
